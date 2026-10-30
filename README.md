@@ -1,17 +1,39 @@
+# Hi! I'm Xushnud 👋
 
-# Hi, I'm Xushnudd 👋
+I'm an aspiring Full-Stack Developer. I started my programming journey in late 2025, focusing initially on Frontend Development. Currently, I work with both Frontend and Backend technologies.
 
-Full-Stack Developer
+When developing software, I strive to write clean, readable, and maintainable code. I focus on reducing code duplication, organizing code structure properly, and finding efficient solutions to problems.
 
-I build responsive web applications and work
-with modern frontend and backend technologies.
+On the Frontend, I build modern, interactive, and responsive web interfaces that work across different devices. On the Backend, I focus on business logic, APIs, and data management.
 
-## Tech Stack
+## Technical Skills
 
-- Frontend: React, Next.js, TypeScript, JavaScript
-- Styling: HTML, CSS, Tailwind CSS
-- Backend: Python, FastAPI, Flask
+**Frontend:**
+- HTML5, CSS3, JavaScript, TypeScript
+- React, Next.js
+- Tailwind CSS
+
+**Backend:**
+- Python, PHP, C
+- Flask, FastAPI
+- Telebot, Aiogram
+
+**Databases:**
+- SQLite
+- MySQL
+- PostgreSQL
+
+**Tools & Technologies:**
+- Git
+- GitHub
+- Docker, Podman
+- Linux (Debian, Fedora)
 
 ## Contact
 
-- GitHub: https://github.com/Xushnudd
+**Email:**
+- [xushnudnishonov@mail.ru](mailto:xushnudnishonov@mail.ru)
+- [nishonovx@gmail.com](mailto:nishonovx@gmail.com)
+- [boshhacker1@gmail.com](mailto:boshhacker1@gmail.com)
+
+**Telegram:** [@nishonov_xushnud](https://t.me/nishonov_xushnud)
