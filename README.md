@@ -33,7 +33,7 @@ On the Frontend, I build modern, interactive, and responsive web interfaces that
 
 **Email:**
 - [xushnudnishonov@mail.ru](mailto:xushnudnishonov@mail.ru)
-- [nishonovx@gmail.com](mailto:nishonovx@gmail.com)
+- [nishonovxushnud@gmail.com](mailto:nishonovxushnud@gmail.com)
 - [boshhacker1@gmail.com](mailto:boshhacker1@gmail.com)
 
 **Telegram:** [@nishonov_xushnud](https://t.me/nishonov_xushnud)
