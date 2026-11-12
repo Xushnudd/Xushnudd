@@ -1,6 +1,6 @@
 # Hi! I'm Xushnud 👋
 
-I'm an aspiring Full-Stack Developer. I started my programming journey in late 2025, focusing initially on Frontend Development. Currently, I work with both Frontend and Backend technologies.
+I'm a Full-Stack Developer. I started my programming journey in late 2025, focusing initially on Frontend Development. Currently, I work with both Frontend and Backend technologies.
 
 When developing software, I strive to write clean, readable, and maintainable code. I focus on reducing code duplication, organizing code structure properly, and finding efficient solutions to problems.
 
@@ -24,16 +24,16 @@ On the Frontend, I build modern, interactive, and responsive web interfaces that
 - PostgreSQL
 
 **Tools & Technologies:**
-- Git
-- GitHub
+- Git, GitHub
 - Docker, Podman
 - Linux (Debian, Fedora)
 
+## 🎓 Education
+
+- **School 21 (Samarkand)** — Peer-to-peer Software Engineering program (Present)
+- **Samarkand State University (SamSU)** — Computer Science / IT (Transferred from TUIT Samarkand branch)
+
 ## Contact
 
-**Email:**
-- [xushnudnishonov@mail.ru](mailto:xushnudnishonov@mail.ru)
-- [nishonovxushnud@gmail.com](mailto:nishonovxushnud@gmail.com)
-- [boshhacker1@gmail.com](mailto:boshhacker1@gmail.com)
-
-**Telegram:** [@nishonov_xushnud](https://t.me/nishonov_xushnud)
+- **Email:** [nishonovxushnud@gmail.com](mailto:nishonovxushnud@gmail.com)
+- **Telegram:** [@nishonov_xushnud](https://t.me/nishonov_xushnud)
